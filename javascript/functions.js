@@ -28,17 +28,17 @@ return 'even'
         return'odd'
     }
 }
-const res = checkEven(7);
-console.log(res);
+// const res = checkEven(7);
+// console.log(res);
 
-// create a function to take a time of the day great according 
-const greet = (time) =>{
-    if(time === 'morning'){
-        return 'Good morning';
-    }else if(time === 'noon'){
-        return 'Good noon';
-    }else if(time === after)
-}
+// // create a function to take a time of the day great according 
+// const greet = (time) =>{
+//     if(time === 'morning'){
+//         return 'Good morning';
+//     }else if(time === 'noon'){
+//         return 'Good noon';
+//     }else if(time === after)
+
 
 
 

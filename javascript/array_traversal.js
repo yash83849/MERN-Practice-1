@@ -59,7 +59,7 @@ nums.forEach((n) => {
  
         newarray.push(n*10)
     }
-});
+);
 
 console.log(newarray);
 

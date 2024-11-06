@@ -64,3 +64,6 @@ nums.forEach((n) => {
 console.log(newarray);
 
 
+
+
+
